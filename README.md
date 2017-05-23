@@ -1,4 +1,4 @@
-# Skin-Detection
+# Skin Detection
 ## Skin Detection Data Set
 * ECU dataset
 * Pratheepan dataset
